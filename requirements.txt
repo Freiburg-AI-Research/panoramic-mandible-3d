@@ -1,0 +1,11 @@
+torch
+torchvision
+SimpleITK
+h5py
+numpy
+scipy
+scikit-image
+matplotlib
+pyvista
+pillow
+TotalSegmentator
